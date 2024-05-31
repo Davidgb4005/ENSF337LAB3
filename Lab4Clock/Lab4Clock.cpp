@@ -6,7 +6,7 @@
 * Development Date: May 31/2024
 */
 
-#include "labA2.h"
+#include "lab4Clock.h"
 
 // Default constructor that initializes the clock to default settings
 Clock::Clock() {
