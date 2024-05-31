@@ -1,5 +1,10 @@
-// ENSF 337 Spring 2024- lab 4 - Exercise D
-//  simpleVector.cpp
+/*
+* File Name: Lab4Vector.cpp
+* Assignment: Lab 4 Exercise D
+* Lab section: Summer
+* Completed by: David Burgoin
+* Development Date: May 31/2024
+*/
 
 /*
  NOTES ON MEMORY ALLOCATION POLICIES FOR SimpleVector OBJECT:
