@@ -1,3 +1,11 @@
+/*
+* File Name: Lab4Clock.cpp
+* Assignment: Lab 4 Exercise C
+* Lab section: Summer
+* Completed by: David Burgoin
+* Development Date: May 31/2024
+*/
+
 #include "labA2.h"
 
 // Default constructor that initializes the clock to default settings
