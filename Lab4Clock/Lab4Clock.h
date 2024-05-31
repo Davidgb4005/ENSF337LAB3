@@ -6,8 +6,8 @@
 * Development Date: May 31/2024
 */
 
-#ifndef LAB3_H
-#define LAB3_H
+#ifndef LAB4_H
+#define LAB4_H
 
 // Definition of the Clock class
 class Clock {
