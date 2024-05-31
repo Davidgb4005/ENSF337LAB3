@@ -1,6 +1,10 @@
-// ENSF 337 - Spring 2024 - Exercise B
-// lab4String.h
-// M. Moussavi
+/*
+* File Name: Lab4Clock.h
+* Assignment: Lab 4 Exercise C
+* Lab section: Summer
+* Completed by: David Burgoin
+* Development Date: May 31/2024
+*/
 
 #ifndef LAB3_H
 #define LAB3_H
@@ -52,3 +56,5 @@ private:
     // Helper function to set the clock to default time (00:00:00)
     void default_setter();
 };
+
+#endif
